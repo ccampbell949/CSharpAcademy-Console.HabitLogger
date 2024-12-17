@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Core Launch",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/habit-logger/bin/Debug/net6.0/habit-logger.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/habit-logger",
+        "stopAtEntry": false,
+        "console": "externalTerminal"
+      }
+    ]
+  }
+  

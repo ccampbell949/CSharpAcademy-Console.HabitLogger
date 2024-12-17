@@ -1,0 +1,15 @@
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\bin\Debug\net8.0\habit-logger.exe
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\bin\Debug\net8.0\habit-logger.deps.json
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\bin\Debug\net8.0\habit-logger.runtimeconfig.json
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\bin\Debug\net8.0\habit-logger.dll
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\bin\Debug\net8.0\habit-logger.pdb
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.AssemblyInfoInputs.cache
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.AssemblyInfo.cs
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.csproj.CoreCompileInputs.cache
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.sourcelink.json
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.dll
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\refint\habit-logger.dll
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.pdb
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\habit-logger.genruntimeconfig.cache
+c:\repos\CSharpAcademy-Console.HabitLogger\habit-logger\obj\Debug\net8.0\ref\habit-logger.dll
