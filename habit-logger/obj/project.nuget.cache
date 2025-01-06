@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KROSvdfEJ5U=",
+  "dgSpecHash": "ycBEbNiKjC8=",
   "success": true,
-  "projectFilePath": "C:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj",
+  "projectFilePath": "c:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\connor.campbell\\.nuget\\packages\\microsoft.data.sqlite\\9.0.0\\microsoft.data.sqlite.9.0.0.nupkg.sha512",
     "C:\\Users\\connor.campbell\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",

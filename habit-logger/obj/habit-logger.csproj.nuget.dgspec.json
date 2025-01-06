@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj": {}
+    "c:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj": {}
   },
   "projects": {
-    "C:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj": {
+    "c:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj",
+        "projectUniqueName": "c:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj",
         "projectName": "habit-logger",
-        "projectPath": "C:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj",
+        "projectPath": "c:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\habit-logger.csproj",
         "packagesPath": "C:\\Users\\connor.campbell\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\obj\\",
+        "outputPath": "c:\\repos\\CSharpAcademy-Console.HabitLogger\\habit-logger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
